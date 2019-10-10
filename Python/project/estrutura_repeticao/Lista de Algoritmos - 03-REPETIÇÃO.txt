@@ -1,0 +1,73 @@
+1) - Ler 80 números e ao final informar quantos número(s) est(á)ão no intervalo entre 10 (inclusive) e 150 (inclusive).
+
+2) - Escrever um algoritmo que leia os dados de “N” pessoas (nome, sexo, idade e saúde) e informe se está apta ou não para cumprir o serviço militar obrigatório. Informe os totais.
+
+3) - Faça um algoritmo que receba um número e mostre uma mensagem caso este número seja maior que 80, menor que 25 ou igual a 40. O usuário deverá informar se deseja continuar informando os valores.
+
+4) - Faça um algoritmo que receba “N” números e mostre positivo, negativo ou zero para cada número.
+
+5) - Escrever um algoritmo para uma empresa que decide dar um reajuste a seus 584 funcionários de acordo com os seguintes critérios:
+	a) 50% para aqueles que ganham menos do que três salários mínimos;
+	b) 20% para aqueles que ganham entre três até dez salários mínimos;
+	c) 15% para aqueles que ganham acima de dez até vinte salários mínimos;
+	d) 10% para os demais funcionários.
+	Leia o nome do funcionário, seu salário e o valor do salário mínimo.
+	Calcule o seu novo salário reajustado.
+	Escrever o nome do funcionário, o reajuste e seu novo salário. Calcule quanto à empresa vai aumentar sua folha de pagamento.
+
+6) - A concessionária de veículos “CARANGO VELHO” está vendendo os seus veículos com desconto. Faça um algoritmo que calcule e exiba o valor do desconto e o valor a ser pago pelo cliente de vários carros. O desconto deverá ser calculado de acordo com o ano do veículo. Até 2000 - 12% e acima de 2000 - 7%. O sistema deverá perguntar se o usuário deseja continuar calculando desconto até que a resposta seja: “(N) Não”. Informar total de carros com ano até 2000 e total geral.
+
+7) - 6.	Faça um algoritmo que receba o preço de custo e o preço de venda de 40 produtos. Mostre como resultado se houve lucro, prejuízo ou empate para cada produto. Informe média de preço de custo e do preço de venda.
+
+8) - 12.	Faça um algoritmo que receba o nome a idade e o sexo de dez funcionário. Para cada funcionário mostre o nome e o salário líquido:
+	SEXO	IDADE	SALÁRIO LÍQUIDO
+	M		>= 30	R$ 100,00
+	M		< 30	R$ 50,00
+	F		>= 30	R$ 200,00
+	F		< 30	R$ 80,00
+	
+9) - Faça um algoritmo que receba um número (não sabemos quantos números serão informados pelo usuário) e mostre uma mensagem caso este número seja maior que 80, menor que 25 ou igual a 40.
+
+10) - Faça um algoritmo que receba “N” números e mostre positivo, negativo ou zero para cada número.
+
+11) - 51.	Uma Companhia de Seguros possui nove categorias de seguro baseadas na idade e ocupação do segurado. Somente pessoas com pelo menos 17 anos e não mais de 70 anos podem adquirir apólices de seguro. Quanto às classes de ocupações, foram definidos três grupos de risco. A tabela abaixo fornece as categorias em função da faixa etária e do grupo de risco. Dados nome, idade e grupo de risco, determinar a categoria do pretendente à aquisição de tal seguro. Imprimir o nome a idade e a categoria do pretendente e caso a idade não esteja na faixa necessária, imprimir uma mensagem.
+	GRUPO DE RISCO
+	IDADE		BAIXO		MEDIO		ALTO
+	17 A 20		1			2			3
+	21 A 24		2			3			4
+	25 A 34		3			4			5
+	35 A 64		4			5			6
+	65 A 70		7			8			9
+
+12) - Desenvolva um algoritmo que imprima os números de um a mil.
+
+13) - Desenvolva um algoritmo que imprima os valores pares entre 0 e 200.
+
+14) - Desenvolva um algoritmo que imprima os valores ímpares entre 200 e 1.
+
+15) - Desenvolva um algoritmo que receba um valor como limite inicial e outro valor como limite final.
+      Ao final exibir quantos valores no intervalo informados são pares e ímpares.
+	  
+16) - Dados três valores A, B e C, em que A e B são números reais e C é um caractere, pede-se para imprimir o resultado da operação de A por B se C for um símbolo de operador aritmético; caso contrário deve ser impressa uma mensagem de operador não definido. Tratar erro de divisão por zero. Repita esse processo cinco vezes.
+
+17) - A escola “APRENDER” faz o pagamento de seus professores por hora/aula. Faça um algoritmo que calcule e exiba o salário do professor. Sabe-se que o valor da hora/aula segue a tabela abaixo:
+Professor Nível 1 R$12,00 por hora/aula
+Professor Nível 2 R$17,00 por hora/aula
+Professor Nível 3 R$25,00 por hora/aula
+A escola "APRENDER” possui 50 professores.
+
+18) - Faça um algoritmo que calcule o valor da conta de luz de 30 pessoas. Sabe-se que o cálculo da conta de luz segue a tabela abaixo:
+
+Tipo de Cliente		Valor do KW/h
+1 (Residência)		R$ 0,60
+2 (Comércio)		R$ 0,48
+3 (Indústria)		R$ 1,29
+
+19) - Desenvolva um algoritmo que leia 10 valores e ao final exiba a quantidade de valores múltiplo de 5.
+
+20) - Escrever um algoritmo que leia três valores inteiros e verifique se eles podem ser os lados de um triângulo. Se for, informar qual o tipo de triângulo que eles formam: equilátero, isóscele ou escaleno. Propriedade: o comprimento de cada lado de um triângulo é menor do que a soma dos comprimentos dos outros dois lados.
+
+Triângulo Equilátero: aquele que tem os comprimentos dos três lados iguais;
+Triângulo Isóscele: aquele que tem os comprimentos de dois lados iguais. Portanto, todo triângulo equilátero é também isóscele;
+Triângulo Escaleno: aquele que tem os comprimentos de seus três lados diferentes.
+Repita esse processo 5 vezes.
