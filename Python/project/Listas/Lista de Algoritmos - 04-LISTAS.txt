@@ -1,0 +1,42 @@
+1) - Desenvolva um programa em python que receba 10 valores informados pelo usuário, armazene-os em um vetor, depois exiba os dados do vetor.
+
+2) - Desenvolva um programa em python que receba 10 nomes informados pelo usuário e armazene-os em um vetor chamado nomes. No final exiba uma lista numerada com os nomes cadastrados no vetor.
+
+3) - Desenvolva um programa em python que receba 15 valores informados pelo usuário armazene-os em vetor chamado num,
+e imprima uma listagem numerada contendo a seguinte mensagem "Par" ou "Ímpar" de acordo com os valores cadastrados no vetor.
+
+4) - Desenvolva um programa em python que leia valores inteiros para o vetor A e construa outro vetor B da seguinte forma:
+VETOR - A [3,  8,   4,  2,  ...,  10]
+VETOR - B [9,  4,  12,  1,  ...,  5]
+
+5) - Desenvolva um programa em python que leia 30 valores inteiros e armazene-os em um vetor. Exiba os valores do vetor
+ao contrário da ordem de leitura dos valores.
+
+6) - Desenvolva um programa em python que leia valores inteiros e armazene-os em um vetor, calcule e exiba as seguinte informações:
+   a) - A quantidade de números pares.
+   b) - Os números pares.
+   c) - A quantidade de números ímpares.
+   d) - Os valores ímpares.
+   e) - A média dos valores pares.
+   f) - A média dos valores ímpares.
+   g) - A média da soma dos valores pares mais os valores ímpares.
+   
+7) - Desenvolva um programa em python que receba valores numéricos informado pelo usuário e cadastre-os em uma lista, caso a lista já contenha o valor informado, exibir a mensagem "Valor já cadastrado". No final exiba todos os valores cadastrados.
+
+8) - Desenvolva um programa em python que receba 10 valores numéricos e guarde-os em uma lista. Verifique se os valores cadastrados são pares ou ímpares e cadastre os valores pares em uma nova lista e os ímpares em outra lista. No final exibir o conteúdo das três listas.
+
+9) - Desenvolva um programa em python que leia 10 valores numéricos informados pelo usuário e armazene-os em um vetor A, leia mais 10 valores numéricos informado pelo usuário armazene-os em outro vetor B, Gere um vetor C, que receberá a soma dos elementos do vetor A e B na sua respectiva posição. Ao final exibir os três vetores A, B e C.
+
+10) - Desenvolva um programa em python que leia 10 valores inteiros informado pelo usuário. No final exibir o menor valor cadastrado no vetor. 
+
+11) - Desenvolva um programa em python que leia 10 valores inteiros informado pelo usuário. No final exibir o maior valor cadastrado no vetor. 
+
+12) - Desenvolva um programa em python que leia 10 valores inteiros informado pelo usuário. No final exibir o menor e o maior valor cadastrado no vetor.
+
+13) - Desenvolva um programa em python que leia 15 valores informado pelo usuário e cadastre-os em uma lista. O usuário deverá informar um valor a ser procurado no vetor, caso encontre este valor exiba o índice desse elemento.
+
+14) - Desenvolva um programa em python que leia o nome e uma nota para um aluno, crie duas listas para armazenar estes valores,
+      o usuário deverá informar um nome de aluno para a pesquisar, se o aluno existir na lista com os nomes do aluno, exibir o nome e a nota do aluno, caso contrário informar a mensagem "Aluno não cadastrado."
+
+15) - [DESAFIO] Desenvolva um procurado em python que leia valores inteiros para um vetor de 20 posições e mostre-o. Em seguida, troque o primeiro elemento pelo o último, o segundo com o penúltimo, o terceiro com o antepenúltimo e, assim, sucessivamente. Mostre o novo vetor após todas as trocas. 
+
